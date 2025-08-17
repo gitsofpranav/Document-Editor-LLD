@@ -4,14 +4,13 @@ A simple Document Editor implemented in Java using **Low-Level Design (LLD) prin
 Supports adding text, images, new lines, and tab spaces with persistence options (File/DB).  
 Demonstrates OOP concepts, SOLID principles, and extensible system design.
 
-2. Features
+
 # Features
 - Add Text, Images, New Lines, and Tab Spaces
 - Render document content in a structured format
 - Save document to **file storage** (future scope: DB/Cloud storage)
 - Extensible design → easy to add new elements or persistence options
 
-3. Tech Stack / Concepts Used
 ## 🛠 Tech Stack / Concepts
 - Java (OOP)
 - Interfaces & Polymorphism
@@ -19,7 +18,7 @@ Demonstrates OOP concepts, SOLID principles, and extensible system design.
 - Separation of Concerns
 - Extensible LLD architecture
 
-4. Project Structure
+
 ## 📂 Project Structure
 .
 ├── DocumentEditorClient.java   # Main client program
@@ -35,14 +34,13 @@ Demonstrates OOP concepts, SOLID principles, and extensible system design.
 
 
 
-5. Sample Output
 ## 📝 Sample Output
 Hello, world!
 This is a real-world document editor example.
     Indented text after a tab space.
 [Image: picture.jpg]
 
-7. Future Improvements
+
 ## 🚀 Future Enhancements
 - Add support for **Database / Cloud Storage**
 - Export to **PDF / HTML**
